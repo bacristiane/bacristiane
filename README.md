@@ -19,13 +19,13 @@
   <img align="center" alt="Nest" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
 </div>
 
-<h3>Banco de Dados:</h3>
+<h4>Banco de Dados:</h4>
 <div>
   <img align="center" alt="MySQL"  height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB"  height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
 </div>
 
-<h3>Ferramentas:</h3>
+<h4>Ferramentas:</h4>
 <div>
   <img align="center" alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
@@ -35,9 +35,9 @@
 </div>
 
 ##
-<div align="center">
+<div align="left">
   <a href="https://github.com/bacristiane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bacristiane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacristiane&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bacristiane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacristiane&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
