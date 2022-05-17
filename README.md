@@ -3,6 +3,8 @@
 - 👨‍🎓 Desenvolvedora Java Fullstack formada pela Generation Brasil
 - 💻 Atualmente trabalhando com Node.js
 - 😄 Pronomes: ela/dela
+- 📫 Contatos:  <a href="mailto:barbara.cristianefs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/barbaracfs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ##
 <h4>Linguagens e Frameworks:</h4>
